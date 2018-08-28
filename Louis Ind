@@ -1,14 +1,26 @@
 public class joy {
 
-
 public void main([]) {
 
 joyBoy = new joyStick(0);
 
-double yl;
-double xl;
+public double yl;
+public double xl;
 
 xl = joyBoy.getRayAxis(0);
 yl = joyBoy.getRayAxis(1);
     }
  }
+
+publick class lmo {
+
+public void main([]) {
+
+TalonSRX fr = new TalonSRX(1);
+TalonSRX fl = new TalonSRX(2);
+TalonSRX br = new TalonSRX(4);
+TalonSRX bl = new TalonSRX(3);
+  }
+}
+
+public class run extends joy extends lmo{
