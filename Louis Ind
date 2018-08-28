@@ -1,1 +1,15 @@
+public class joy {
 
+
+
+public void main([]) {
+
+joyBoy = new Joystick(0);
+
+double yl;
+double xl;
+
+xl = joyBoy.getRayAxis(0);
+yl = joyBoy.getRayAxis(1);
+    }
+ }
