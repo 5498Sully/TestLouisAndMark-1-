@@ -1,4 +1,14 @@
-class Persona{
-}
+class Persona {
 
-public static void main [stingargs] {
+
+public static void main (String args []) {
+int var1;
+in
+
+var1 = 1098;
+
+System.out.println ("var1 contains " + var1);
+
+var
+
+Syste
