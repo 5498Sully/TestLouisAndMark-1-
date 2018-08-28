@@ -1,0 +1,9 @@
+class Kaiser {
+  public static void main(string args[]) {
+   int var;
+   double x;
+
+var = 10;
+
+x = 10.0;
+
