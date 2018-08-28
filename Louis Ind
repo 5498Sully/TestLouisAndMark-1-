@@ -1,10 +1,9 @@
 public class joy {
 
 
-
 public void main([]) {
 
-joyBoy = new Joystick(0);
+joyBoy = new joyStick(0);
 
 double yl;
 double xl;
